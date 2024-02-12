@@ -9,9 +9,8 @@ https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.ti
 
 # How to start
 ```
-npm install -g pnpm
-pnpm i
-pnpm run dev
+yarn install
+yarn dev
 ```
 
 # Preview
@@ -21,7 +20,5 @@ pnpm run dev
 
 # How to deploy it
 ```
-pnpm run deploy
+yarn deploy
 ```
-
-Made with love in Berlin!❤️
